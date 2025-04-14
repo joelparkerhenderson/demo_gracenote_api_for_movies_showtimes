@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: Demo of the Gracenote API to get theatres, movies, showings
+message: >-
+  If you use this work and you want to cite it,
+  then you can use the metadata from this file.
+type: software
+authors:
+  - given-names: Joel Parker
+    family-names: Henderson
+    email: joel@joelparkerhenderson.com
+    affiliation: joelparkerhenderson.com
+    orcid: 'https://orcid.org/0009-0000-4681-282X'
+identifiers:
+  - type: url
+    value: 'https://github.com/joelparkerhenderson/demo_gracenote_api_for_movies_showtimes/'
+    description: Demo of the Gracenote API to get theatres, movies, showings
+repository-code: 'https://github.com/joelparkerhenderson/demo_gracenote_api_for_movies_showtimes/'
+abstract: >-
+  Demo of the Gracenote API to get theatres, movies, showings
+license: See license file
